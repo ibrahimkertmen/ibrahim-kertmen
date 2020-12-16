@@ -1,0 +1,29 @@
+{
+  "name": "ibrahim-kertmen",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ibrahim": "echo 'benim adım ibrahim'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "package"
+  ],
+  "author": "İbrahim Kertmen",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.8",
+    "nodemailer": "^6.4.17",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibrahimkertmen/ibrahim-kertmen.git"}
+  
+}
